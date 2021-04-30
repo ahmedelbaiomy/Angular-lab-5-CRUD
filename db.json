@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "baiomy",
+      "age": 25,
+      "email": "baiomy@gmail.com",
+      "phone": "568645",
+      "address": {
+        "city": "gsagn",
+        "street": "xcvxcgvbh"
+      }
+    },
+    {
+      "id": 2,
+      "name": "baiomy tani",
+      "age": 25,
+      "email": "baiomytani@gmail.com",
+      "phone": "741794",
+      "address": {
+        "city": "zexrctvbni",
+        "street": "exctvyu"
+      }
+    }
+  ]
+}
